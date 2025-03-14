@@ -1,1 +1,1 @@
-mysql:lastest
+mysql:8

@@ -1,1 +1,1 @@
-mysql:8
+richarvey/nginx-php-fpm:latest

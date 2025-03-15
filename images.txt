@@ -1,1 +1,1 @@
-richarvey/nginx-php-fpm:php5.6
+richarvey/nginx-php-fpm:php5

@@ -1,1 +1,2 @@
-richarvey/nginx-php-fpm:php71
+pgvector/pgvector:pg17
+redis:7.4

@@ -1,2 +1,2 @@
 node:18-slim
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 linux/arm64

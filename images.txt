@@ -1,1 +1,1 @@
-qdrant/qdrant
+yidadaa/chatgpt-next-we

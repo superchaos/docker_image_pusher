@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web
+ubuntu:22.04

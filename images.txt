@@ -1,2 +1,2 @@
 # --platform=linux/arm64 ubuntu:22.04
-tzolov/mcp-everything-server:v1
+node:22.12-alpine

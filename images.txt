@@ -1,2 +1,2 @@
 # --platform=linux/arm64 ubuntu:22.04
-node:22.12-alpine
+jockerdragon/bypy:latest
